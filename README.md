@@ -3,7 +3,7 @@
 * The Overview 
 * Motivation
 * Installation
-* Deployement on Heroku
+* Deployement
 * Directory Tree
 * Bug / Feature Request
 * Future scope of project
