@@ -9,5 +9,4 @@
 * Future scope of project
 
 ## The Overview
-Developed Machine Learning Process from data preprocessing, building different learning models, and finding more powerful threshold to predict the crime rate based on demographic and economic information among severals areas. Picked up 10 types of feature affecting seriously to the high crime area based on different measures.
-
+The project uses a machine learning model to make crime prediction in a community based on the economic and demographic information among several areas of the community. We selected around 10 types of features affecting the high-crime area. The algorithms that were involved in the modeling range from KNN, Gaussian Naive Bayes, Linear Support Vector Machine, Linear Regression, Polynomial SVC, Polynomial Features, Decision Tree Classifier, and Ridge Regression. 
