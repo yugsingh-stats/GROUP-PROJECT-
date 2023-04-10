@@ -5,8 +5,9 @@
 * The Overview 
 * Motivation
 * Installation
-* Future scope of the work/project
 * Technology Used
+* Future scope of the work/project
+
 
 ## The Overview
 The project uses a machine learning model to make crime prediction in a community based on the economic and demographic information among several areas of the community. We selected around 10 types of features affecting the high-crime area. The algorithms that were involved in the modeling range from KNN, Gaussian Naive Bayes, Linear Support Vector Machine, Linear Regression, Polynomial SVC, Polynomial Features, Decision Tree Classifier, and Ridge Regression. 
